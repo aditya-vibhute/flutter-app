@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAjDzIh3WhNzPsQWJrwli7QaOTOeDIU7Sw',
+    apiKey: ,
     appId: '1:225413271858:web:4937076d5edd982121472b',
     messagingSenderId: '225413271858',
     projectId: 'skillspark-d2983',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDgP8EKkh_Axcfte9yctJFNimKGTSDA82Y',
+    apiKey: '',
     appId: '1:225413271858:android:de39d8a63725a9ba21472b',
     messagingSenderId: '225413271858',
     projectId: 'skillspark-d2983',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBess3q6HRQXk9mVq6DvjErD71Kvj0J3bw',
+    apiKey: ,
     appId: '1:225413271858:ios:28a867cf7cd77d6821472b',
     messagingSenderId: '225413271858',
     projectId: 'skillspark-d2983',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBess3q6HRQXk9mVq6DvjErD71Kvj0J3bw',
+    apiKey: ,
     appId: '1:225413271858:ios:514363d04f70762521472b',
     messagingSenderId: '225413271858',
     projectId: 'skillspark-d2983',
